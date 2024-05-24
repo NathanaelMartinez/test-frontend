@@ -1,0 +1,11 @@
+{
+  "name": "typescript-web-component",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "live-server ./ --open=index.html"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5",
+    "live-server": "^1.2.1"
+  }
+}
